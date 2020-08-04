@@ -4,7 +4,7 @@
 
 Author : Novi Indra Setiawan
 
-Nama Aplikasi : List View Sederhana 1
+Nama Aplikasi : List View Android Sederhana 1
 Basis : Android
 Bahasa Pemrograman : Kotlin
 IDE : Android Studio
